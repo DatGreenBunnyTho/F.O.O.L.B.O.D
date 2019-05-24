@@ -1,6 +1,9 @@
 # F.O.O.L.B.O.D
 it's a discord bot made in Visual Studio Code and made by DatGreenBunnyTho#8679, it is a sequel to another bot called T.O.N.Y
 
+# Fool?Help
+Sends you help
+
 # Fool?HelpFun
 some fun commands like Fool?ascii, Fool?Gay and more
 
