@@ -14,4 +14,4 @@ you can not access this but it is like Fool?Playing or something
 Stuff like Fool?Invite, Fool?Uptime and more
 
 # Fool?HelpOther
-This will have commands like
+This will have commands like Fool?Userinfo, Fool?Avatar and more
